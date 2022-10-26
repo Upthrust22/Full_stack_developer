@@ -1,0 +1,15 @@
+WHAT IS FULL STACK DEVELOPMENT
+
+A full stack developer is a type of software developer that can perform front end and back end operations plus has a rich 
+comprehensive set of programming skills, programming languages and problem solving aptitude. This simply means the 
+developer can build the back end and front end of web applications.
+
+Front end development has to do with the user interface of an application, what the users see like buttons, images, text 
+and colors etc.
+
+Back end development has to do with implementing the logic behind how the platform works, the work of a backend developer 
+cannot be seen with your eyes but you can experience the effect of his code by how well this application works.
+
+Apart from just front and back end, a full stack developer is able to make database queries to manipulate data, he/she also
+ tests software and fixes bugs to improve user experience. The developer must have a grasp of programming languages and 
+frameworks like html, css, javaScript, React.js, Angular.js, Node.js, Python Django, Java Spring etc.
